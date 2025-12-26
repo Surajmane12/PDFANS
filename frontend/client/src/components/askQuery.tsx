@@ -177,9 +177,6 @@ export default function PDFQueryForm() {
     />
   </svg>
 
-  <span className="text-sm font-medium text-red-700">
-    Select your desired file
-  </span>
 </div>
 
 
